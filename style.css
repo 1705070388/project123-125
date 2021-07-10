@@ -1,0 +1,28 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin :0px;
+    box-shadow: 5px 5px 15px cyan;
+}
+
+.note{
+    font-size: 15px;
+    white-space: pre-line;
+    color:darkgreen;
+}
+
+.footer{
+    position: fixed;
+    color: lightcoral;
+    bottom: 0;
+    width: 100%;
+    background-color: darkred;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas{
+    border: 5px solid forestgreen;
+    border-radius: 20px;
+    box-shadow: 5px 5px 15px cyan;
+}
